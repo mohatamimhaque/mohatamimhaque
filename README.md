@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/mohatamimhaque/mohatamimhaque/blob/main/banner.jpg)
 
 
 <h3 align="center">A passionate tech enthusiast and 2nd-year CSE student from Bangladesh, thriving on problem-solving and honing skills in C++, Python, and web development.</h3>
