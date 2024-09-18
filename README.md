@@ -1,7 +1,7 @@
 ![logo](https://github.com/mohatamimhaque/mohatamimhaque/blob/main/banner.jpg)
 
 
-<h3 align="center">A passionate tech enthusiast and 2nd-year CSE student from Bangladesh, thriving on problem-solving and honing skills in C++, Python, and web development.</h3>
+<h3 align="center">A dedicated second-year Computer Science and Engineering student at Dhaka University of Engineering & Technology, driven by a passion for technology, programming, and problem-solving. Proficient in C++, C, Python, and web development, I'm constantly seeking to enhance my skills in competitive programming and algorithms.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohatamimhaque&label=Profile%20views&color=0e75b6&style=flat" alt="mohatamimhaque" /> </p>
